@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://github-readme-stats.vercel.app/api?username=mayandev)
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Ifdevil/Ifdevil/main/code.gif" width="300" height="110" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Ifdevil/Ifdevil/main/code.gif" width="350" height="210" />
