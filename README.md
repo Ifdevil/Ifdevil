@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://github-readme-stats.vercel.app/api?username=mayandev)
+![](https://github-readme-stats.vercel.app/api?username=Ifdevil)
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Ifdevil/Ifdevil/main/code.gif" width="350" height="193" />
